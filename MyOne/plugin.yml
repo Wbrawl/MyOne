@@ -1,0 +1,8 @@
+name: MyOne
+description: Cmd pl
+main: src/MyOne/Main
+commands:
+  info:
+    description: Info Command
+    usage: /info
+    aliases: ["infos"]
